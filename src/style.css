@@ -1,0 +1,29 @@
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('/src/img/paisagem.jpg');
+
+}
+h1{
+  text-align: center;
+}
+body
+{
+  color: white;
+background-color: rgb(12 45 68);
+
+}
+
+.campo
+{
+  padding: 5px;
+  width: 230px;
+  margin: 7px;
+  height: 25px;
+  border-radius: 8px;
+  border-color: yellow;
+
+}
